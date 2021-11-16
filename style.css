@@ -17,6 +17,7 @@ body{
     align-items: center;
     border-radius: 10px;
     overflow: hidden;
+    margin-top: 20px;
 }
 .tab{
     box-sizing: border-box;
